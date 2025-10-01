@@ -1,6 +1,6 @@
 ---
-title: "MyTitle."
-layout: splash
+title: "welcome"
+layout: home
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
@@ -15,8 +15,10 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
-
-Body
+## About me
+seoyeon
+Hanyang Univ.ERICA - AI
+study AI,chinese
+practice git/github
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
