@@ -17,8 +17,10 @@ intro:
 
 ## About me
 seoyeon Lim
-Hanyang Univ.ERICA - AI
-study AI,chinese
-practice git/github
+feature
+Hanyang Univ.ERICA-AI
+studying AI,Chinese
+practicing git/github
+master
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
