@@ -16,7 +16,7 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 ## About me
-seoyeon
+seoyeon Lim
 Hanyang Univ.ERICA - AI
 study AI,chinese
 practice git/github
