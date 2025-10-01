@@ -1,6 +1,6 @@
 ---
-title: "MyTitle."
-layout: splash
+title: "welcome"
+layout: home
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
@@ -17,8 +17,10 @@ intro:
 
 ## About me
 seoyeon Lim
+feature
 Hanyang Univ.ERICA-AI
 studying AI,Chinese
 practicing git/github
+master
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
