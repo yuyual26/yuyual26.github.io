@@ -15,8 +15,10 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
-
-Body
+## About me
+seoyeon Lim
+Hanyang Univ.ERICA-AI
+studying AI,Chinese
+practicing git/github
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
