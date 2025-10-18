@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/concrete.jpg
   actions:
     - label: "Button"
-      url: "/sample/"
+      url: "https://yuyual26.github.io"
 excerpt: " "
 intro:
   - excerpt: ""
@@ -16,6 +16,10 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 ## Title
+hanyang
+univ
+erica
+department of AI
 
 Body
 
